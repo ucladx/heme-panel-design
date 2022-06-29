@@ -1,0 +1,219 @@
+Gene	Gene_ID	Locus	Gene_Size	Mut_Freq	Muts_per_Mbp	Mean_Gain	Mean_Loss	Num_Lists	fmi_heme_407	chop_heme_211	mayo_heme_42	goal_core_497	tempus_xt_648	pgdx_elio_505	summary
+NOTCH2	ENSG00000134250	01p12	16257	8.50%	5.23	2.7292	1.9037	5	1	1		1	1	1	Encodes a transmembrane receptor that regulates many aspects of development by affecting cell-fate determination.
+TENT5C	ENSG00000183508	01p12	5662	1.24%	2.19	2.6484	1.8908	4	1			1	1	1	A non-canonical poly(A) polymerase, is most frequently altered by mutation and deletion in multiple myelomas.
+CD58	ENSG00000116815	01p13.1	1773	0.61%	3.42	2.6189	1.8841	2	1			1			A cell surface adhesion molecule expressed in immune cells, is recurrently altered by mutation and deletion in hematopoietic malignancies.
+NRAS	ENSG00000213281	01p13.2	4354	3.60%	8.27	2.6076	1.8825	6	1	1	1	1	1	1	A GTPase, is mutated in a diverse range of cancers, most frequently in melanoma and thyroid cancer.
+BCL10	ENSG00000142867	01p22.3	2845	1.41%	4.94	2.6070	1.8890	3	1			1	1		A tumor suppressor and pro-apoptotic protein, is infrequently altered in cancer.
+JAK1	ENSG00000162434	01p31.3	6303	6.50%	10.32	2.6174	1.9019	5	1	1		1	1	1	An intracellular kinase, is frequently altered in hematologic malignancies and gynecological cancers.
+CDKN2C	ENSG00000123080	01p32.3	3034	0.40%	1.33	2.6104	1.8978	4	1			1	1	1	A tumor suppressor and cell cycle regulator, is infrequently altered in cancer.
+MPL	ENSG00000117400	01p34.2	3681	1.68%	4.55	2.6467	1.9135	6	1	1	1	1	1	1	A transmembrane protein receptor, is frequently mutated in myeloproliferative neoplasms including essential thrombocytosis and myelofibrosis.
+CSF3R	ENSG00000119535	01p34.3	3525	5.53%	15.68	2.6184	1.9050	6	1	1	1	1	1	1	A transmembrane receptor, is frequently mutated in chronic neutrophilic leukemia and atypical chronic myeloid leukemia.
+RRAGC	ENSG00000116954	01p34.3	2709	2.17%	8.00	2.6581	1.9111	1				1			An mTORC1 activator, is mutated in follicular lymphomas.
+ARID1A	ENSG00000117713	01p36.11	9800	45.43%	46.36	2.5236	1.8566	4	1			1	1	1	A tumor suppressor involved in transcriptional regulation, is inactivated by mutation in various cancer types including endometrial and bladder cancers.
+ID3	ENSG00000117318	01p36.12	962	0.45%	4.71	2.5371	1.8588	3	1			1		1	Encodes a helix-loop-helix protein involved in transcription. Mutations and overexpression of ID3 are found in a variety of cancers.
+SPEN	ENSG00000065526	01p36.21-p36.13	12445	21.62%	17.38	2.5602	1.8606	4	1			1	1	1	Encodes a tumor suppressor that regulates transcription of ERα-target genes and has been associated with tumor growth inhibition. Somatic mutations and loss of heterozygosity of SPEN have been found in breast cancer.
+MTOR	ENSG00000198793	01p36.22	9734	12.06%	12.39	2.5664	1.8577	4	1			1	1	1	An intracellular kinase that regulates cell growth and metabolism, is infrequently mutated in various cancer types.
+PIK3CD	ENSG00000171608	01p36.22	5774	5.60%	9.69	2.5671	1.8531	3				1	1	1	Encodes a kinase involved in immune cell regulation. Inactivating mutations of PIK3CD are found in uterine, endometrial and colorectal cancers, among others.
+TNFRSF14	ENSG00000157873	01p36.32	1962	1.22%	6.23	2.6045	1.8544	4	1			1	1	1	A cell surface receptor in the tumor necrosis factor family, is recurrently altered by mutation and deletion in hematologic malignancies.
+GNB1	ENSG00000078369	01p36.33	3242	4.44%	13.70	2.6075	1.8551	1				1			A guanine nucleotide binding protein, is recurrently altered by mutation in myelodysplastic syndromes and acute myeloid leukemia.
+RIT1	ENSG00000143622	01q22	3518	0.69%	1.97	3.1336	1.9800	3				1	1	1	Encodes a RAS-related GTPase that plays a role in neuronal development and differentiation. Activating mutations in RIT1 are frequent in Noonan syndrome and are found in a variety of cancers, including lung adenocarcinoma, hepatocellular carcinoma and myeloid malignancies.
+NTRK1	ENSG00000198400	01q23.1	4097	4.58%	11.17	3.1119	1.9793	5	1	1		1	1	1	A receptor tyrosine kinase, is altered by mutation or chromosomal rearrangement in various cancer types including lung and colorectal cancers.
+ABL2	ENSG00000143322	01q25.2	12478	6.87%	5.50	3.0771	1.9750	4		1		1	1	1	A tyrosine kinase, is altered by chromosomal rearrangement in acute lymphoblastic leukemia.
+XPO1	ENSG00000082898	02p15	5493	5.71%	10.40	2.7802	1.9730	4	1			1	1	1	Encodes a protein that mediates nuclear export of proteins and RNA. It acts as an oncogene in various tumor types by exporting tumor suppressors from the nucleus to the cytoplasm of tumor cells.
+FANCL	ENSG00000115392	02p16.1	1758	0.78%	4.44	2.7630	1.9687	4	1			1	1	1	An E3 ubiquitin ligase involved in DNA repair, is infrequently altered in cancer. Germline mutations of FANCL are associated with the cancer predisposition syndrome Fanconi Anemia.
+REL	ENSG00000162924	02p16.1	11301	1.73%	1.53	2.7815	1.9730	2				1		1	A transcription factor, is most frequently altered by mutation or amplification in B-cell lymphomas.
+FBXO11	ENSG00000138081	02p16.3	5073	2.30%	4.54	2.7576	1.9699	3	1			1	1		A component of the SCF ubiquitin ligase complex, is recurrently altered by mutation in lymphomas.
+ALK	ENSG00000171094	02p23.2-p23.1	6731	13.45%	19.98	2.7444	1.9684	5	1	1		1	1	1	A receptor tyrosine kinase, is recurrently altered by chromosomal rearrangements in various cancer types including anaplastic large cell lymphoma, non-small cell lung cancer and inflammatory myofibroblastic tumors.
+DNMT3A	ENSG00000119772	02p23.3	10880	8.34%	7.67	2.7307	1.9620	6	1	1	1	1	1	1	A tumor suppressor and DNA methyltransferase, is recurrently mutated in acute myeloid leukemia and other hematologic malignancies
+CXCR4	ENSG00000121966	02q22.1	2007	0.87%	4.32	2.6637	1.9503	4	1			1	1	1	A chemokine receptor, is altered in various solid and hematologic malignancies including lymphoplasmacytic lymphoma.
+LRP1B	ENSG00000168702	02q22.1-q22.2	16214	21.62%	13.34	2.6619	1.9460	4	1			1	1	1	
+SF3B1	ENSG00000115524	02q33.1	8246	5.23%	6.34	2.6852	1.9599	6	1	1	1	1	1	1	A component of the spliceosome complex, is frequently mutated in hematologic malignancies.
+CD28	ENSG00000178562	02q33.2	4901	0.42%	0.86	2.6616	1.9462	1				1			A costimulatory receptor expressed by T cells, is infrequently altered in a diverse range of human cancers.
+CTLA4	ENSG00000163599	02q33.2	2013	0.88%	4.35	2.6592	1.9453	3				1	1	1	A transmembrane receptor, is infrequently altered in cancer and is a promising target for immune blockade therapies.
+IDH1	ENSG00000138413	02q34	2774	5.56%	20.03	2.6379	1.9385	6	1	1	1	1	1	1	A cell metabolism enzyme, is recurrently mutated in various cancer types including acute myeloid leukemia and gliomas.
+IKZF2	ENSG00000030419	02q34	10025	1.70%	1.70	2.6121	1.9237	2	1			1			
+RHOA	ENSG00000067560	03p21.31	1968	1.07%	5.43	2.5059	1.8113	4	1			1	1	1	A GTPase, is altered in various solid and hematologic malignancies.
+SETD2	ENSG00000181555	03p21.31	8705	6.49%	7.46	2.5090	1.8146	5	1	1		1	1	1	Encodes a tumor suppressor and H3K36 trimethylase. Mutations in this gene have been identified in a variety of cancer types.
+CTNNB1	ENSG00000168036	03p22.1	7773	16.71%	21.50	2.5406	1.8297	4	1			1	1	1	Aka beta-catenin, a transcriptional activator, is recurrently mutated in various cancers including endometrial and hepatocellular cancers.
+MYD88	ENSG00000172936	03p22.2	2894	0.90%	3.10	2.5531	1.8304	5	1	1		1	1	1	An adaptor protein, is frequently altered in hematologic malignancies including Waldenstroms macroglobulinemia.
+CCR4	ENSG00000183813	03p22.3	3033	1.54%	5.08	2.5679	1.8338	0							
+CBLB	ENSG00000114423	03q13.11	7452	4.37%	5.87	2.8189	1.9327	2				1	1		
+MBD4	ENSG00000129071	03q21.3	3005	4.58%	15.26	2.8456	1.9378	0							
+GATA2	ENSG00000179348	03q21.3	3805	3.12%	8.20	2.8408	1.9386	6	1	1	1	1	1	1	A transcription factor involved in red blood cell and platelet development. Germline mutations of GATA2 are associated with Emberger and MonoMAC syndromes and predispose to leukemias.
+ATR	ENSG00000175054	03q23	8346	6.58%	7.88	2.9498	1.9462	4	1			1	1	1	A tumor suppressor involved in DNA damage repair, is mutated in various cancer types.
+MECOM	ENSG00000085276	03q26.2	7093	5.62%	7.92	3.2333	1.9484	2		1		1			A transcription factor expressed in hematopoietic stem cells, is recurrently altered by chromosomal rearrangement in hematologic malignancies.
+TERC	ENSG00000270141	03q26.2	545			3.2409	1.9503	2				1		1	
+PIK3CA	ENSG00000121879	03q26.32	9430	13.22%	14.01	3.2314	1.9512	5	1	1		1	1	1	The catalytic subunit of PI3-kinase, is frequently mutated in a diverse range of cancers including breast, endometrial and cervical cancers.
+TBL1XR1	ENSG00000177565	03q26.32	8389	1.50%	1.79	3.2164	1.9463	3	1			1	1		A transcriptional repressor that binds the NCoR/SMRT protein complex, is recurrently altered by mutation and fusion in hematologic malignancies.
+KLHL6	ENSG00000172578	03q27.1	6323	2.43%	3.84	3.2232	1.9507	4	1			1	1	1	
+BCL6	ENSG00000113916	03q27.3	4091	7.07%	17.28	3.1329	1.9414	5	1	1		1	1	1	A transcriptional repressor involved in immune cell development, is frequently altered by chromosomal rearrangement in lymphomas.
+FGFR3	ENSG00000068078	04p16.3	4536	2.92%	6.43	2.5746	1.8853	5	1	1		1	1	1	A receptor tyrosine kinase, is altered by mutation, chromosomal rearrangement or amplification in various cancers, most frequently in bladder cancer.
+NSD2	ENSG00000109685	04p16.3	17824	5.12%	2.87	2.5689	1.8847	5	1	1		1	1	1	A histone methyltransferase, is mutated in blood cancers.
+KIT	ENSG00000157404	04q12	5231	3.05%	5.84	2.7719	1.9276	6	1	1	1	1	1	1	A receptor tyrosine kinase, is recurrently mutated in gastrointestinal stromal tumors.
+PDGFRA	ENSG00000134853	04q12	7774	5.72%	7.36	2.7820	1.9280	5	1	1		1	1	1	A receptor tyrosine kinase, is altered by mutation, chromosomal rearrangement or amplification in a diverse range of cancers.
+SRP72	ENSG00000174780	04q12	4048	1.37%	3.38	2.6489	1.9268	1			1				
+TET2	ENSG00000168769	04q24	15770	4.15%	2.63	2.4670	1.8863	6	1	1	1	1	1	1	A tumor suppressor and DNA demethylase, is frequently mutated in hematologic malignancies.
+LEF1	ENSG00000138795	04q25	4247	2.05%	4.83	2.4725	1.8903	3	1	1			1		
+FAT4	ENSG00000196159	04q28.1	17355	18.35%	10.57	2.4781	1.8932	0							
+FBXW7	ENSG00000109670	04q31.3	6639	8.69%	13.09	2.4816	1.8768	5	1	1		1	1	1	A tumor suppressor involved in protein degradation, is inactivated by mutation in various cancer types, most frequently in endometrial and colorectal cancers.
+FAT1	ENSG00000083857	04q35.2	14893	14.73%	9.89	2.4780	1.8417	3				1	1	1	A tumor suppressor and transmembrane protein, is inactivated by mutation or deletion in various cancer types.
+IL7R	ENSG00000168685	05p13.2	4898	3.75%	7.65	3.0907	1.9721	5	1	1		1	1	1	A subunit of the interleukin 7 receptor, is altered in various hematologic malignancies including pediatric acute lymphoblastic leukemia.
+TERT	ENSG00000164362	05p15.33	4103	3.51%	8.55	3.1193	1.9495	5		1	1	1	1	1	An enzyme that functions to maintain telomere length and genomic stability. The TERT promoter is frequently mutated in various cancer types.
+CSF1R	ENSG00000182578	05q32	4077	4.58%	11.22	2.5918	1.9076	5	1	1		1	1	1	A cytokine receptor, is altered in various cancer types.
+PDGFRB	ENSG00000113721	05q32	5792	4.89%	8.45	2.6002	1.9078	5	1	1		1	1	1	A receptor tyrosine kinase, is infrequently mutated in solid tumors.
+EBF1	ENSG00000164330	05q33.3	5486	1.99%	3.63	2.5910	1.9052	4	1	1		1	1		
+ITK	ENSG00000113263	05q33.3	4576	1.60%	3.49	2.5860	1.9043	1				1			
+NPM1	ENSG00000181163	05q35.1	2658	1.97%	7.43	2.6136	1.9064	6	1	1	1	1	1	1	A nucleolar phosphoprotein, is frequently altered in hematologic malignancies.
+NSD1	ENSG00000165671	05q35.3	13827	9.11%	6.59	2.6278	1.9086	5	1	1		1	1	1	Encodes a nuclear receptor that can both positively and negatively regulate transcription. Translocations involving NSD1 and the NUP98 gene are highly recurrent in pediatric acute myeloid leukemia.
+DDX41	ENSG00000183258	05q35.3	2222	1.98%	8.93	2.6241	1.9090	3		1	1	1			An RNA helicase involved in innate immunity, is recurrently altered by mutation in hematopoietic malignancies. Germline mutations of DDX41 predispose to myelodysplastic syndromes and acute myeloid leukemia.
+CCND3	ENSG00000112576	06p21.1	3933	1.21%	3.09	2.8585	1.9415	5	1	1		1	1	1	A regulator of the cell cycle, is amplified in various cancer types.
+NFKBIE	ENSG00000146232	06p21.1	2605	1.40%	5.36	2.8465	1.9419	1				1			
+PIM1	ENSG00000137193	06p21.2	2727	1.27%	4.66	2.7792	1.9354	4	1			1	1	1	Encodes a serine/threonine kinase involved in cell survival and proliferation. Mutations of PIM1 are found in lymphomas.
+H1-4	ENSG00000168298	06p22.2	791	1.97%	24.96	2.7742	1.9273	3	1			1	1		A histone H1 linker protein, is infrequently altered by mutation in a diverse range of cancers.
+H1-2	ENSG00000187837	06p22.2	735	2.87%	39.05	2.7742	1.9283	2	1					1	A histone variant, is infrequently altered by mutation in various cancer types.
+TPMT	ENSG00000137364	06p22.3	3220	0.40%	1.26	2.8161	1.9285	3		1		1	1		
+IRF4	ENSG00000137265	06p25.3	5350	1.78%	3.33	2.7334	1.8921	4	1			1	1	1	A transcription factor, is altered by mutation and chromosomal rearrangement in various hematologic malignancies.
+TMEM30A	ENSG00000112697	06q14.1	5165	0.86%	1.66	2.5839	1.8681	1	1						
+EPHA7	ENSG00000135333	06q16.1	7536	6.40%	8.49	2.5771	1.8364	4	1			1	1	1	A receptor tyrosine kinase, is altered by mutation or deletion in various cancer types, most frequently in skin cancers.
+PRDM1	ENSG00000057657	06q21	6066	2.39%	3.94	2.6259	1.8305	4	1			1	1	1	Encodes a transcriptional repressor involved in the cellular response to viral infection and B-cell differentiation. Deletions of PRDM1 are found in diffuse large B-cell lymphomas and prostate cancer.
+SGK1	ENSG00000118515	06q23.2	6406	5.51%	8.60	2.5999	1.8490	4	1			1	1	1	A serine/threonine kinase in the PI3K signaling pathways, is altered by mutation in hematologic malignancies.
+TNFAIP3	ENSG00000118503	06q23.3	4703	2.29%	4.87	2.5953	1.8490	4	1			1	1	1	Encodes an enzyme involved in regulation of the NF-κB pathway. Mutations of TNFAIP3 are found in lymphomas and leukemias.
+ARID1B	ENSG00000049618	06q25.3	12356	16.47%	13.33	2.5370	1.8363	3				1	1	1	A tumor suppressor involved in transcriptional regulation, is inactivated by mutation or deletion in various cancer types.
+EGFR	ENSG00000146648	07p11.2	11447	5.70%	4.98	4.1495	1.9774	5	1	1		1	1	1	A receptor tyrosine kinase, is altered by amplification and/or mutation in lung and brain cancers among others.
+IKZF1	ENSG00000185811	07p12.2	8181	4.83%	5.90	3.0359	1.9641	5	1	1		1	1	1	Encodes a transcription factor involved in lymphocyte development. Loss-of-function alterations of IKZF1 are frequently found in B-cell acute lymphocytic leukemia.
+CARD11	ENSG00000198286	07p22.2	4466	12.93%	28.94	3.0391	1.9524	4	1			1	1	1	A scaffolding protein, is altered in various cancer types including skin cancer and diffuse large B-cell lymphoma.
+SAMD9	ENSG00000205413	07q21.2	6867	6.50%	9.47	3.1063	1.9679	1				1			
+SAMD9L	ENSG00000177409	07q21.2	7170	3.22%	4.49	3.1004	1.9674	1				1			
+CUX1	ENSG00000257923	07q22.1	15699	6.27%	3.99	3.0103	1.9570	3	1			1	1		A transcription factor, is frequently altered in several cancers types by deletion, mutation or translocation.
+POT1	ENSG00000128513	07q31.33	4634	5.36%	11.56	2.9613	1.9390	4	1			1	1	1	A tumor suppressor that functions as a telomere binding protein, is altered by mutation in hematologic malignancies.
+BRAF	ENSG00000157764	07q34	14486	6.65%	4.59	2.9768	1.9424	5	1	1		1	1	1	An intracellular kinase, is frequently mutated in melanoma, thyroid and lung cancers among others.
+LUC7L2	ENSG00000146963	07q34	3071	0.36%	1.16	2.9706	1.9433	0							
+EZH2	ENSG00000106462	07q36.1	3155	2.84%	9.01	2.9498	1.9337	6	1	1	1	1	1	1	An epigenetic modifier, is altered by mutation and/or overexpression in solid tumors and hematologic malignancies.
+KMT2C	ENSG00000055609	07q36.1	17096	84.07%	49.17	2.9483	1.9265	5	1	1		1	1	1	A tumor suppressor and histone methyltransferase, is altered in various solid and hematologic malignancies.
+NBN	ENSG00000104320	08q21.3	4887	2.26%	4.63	3.2903	1.9666	3				1	1	1	A tumor suppressor involved in DNA double-strand break repair. Germline mutations of NBN are associated with Nijmegen breakage syndrome and predispose to cancer.
+RAD21	ENSG00000164754	08q24.11	5502	1.85%	3.36	3.4577	1.9726	6	1	1	1	1	1	1	Encodes a protein involved in DNA repair and chromosome segregation. Germline mutations of RAD21 are associated with an increased risk of developing breast cancer.
+MYC	ENSG00000136997	08q24.21	4600	7.25%	15.77	3.6893	1.9770	5	1	1		1	1	1	A transcription factor, is altered by chromosomal rearrangement, amplification and overexpression in a variety of cancer types.
+PAX5	ENSG00000196092	09p13.2	8853	2.89%	3.26	2.6186	1.8660	5	1	1		1	1	1	Encodes a transcription factor involved in B-cell development. Translocations of PAX5 are found in lymphomas and leukemias.
+CDKN2A	ENSG00000147889	09p21.3	3189	8.04%	25.22	2.5742	1.5480	5	1	1		1	1	1	Encodes two proteins, p16INK4A and p14ARF, that regulate the cell growth and survival. CDKN2A is altered by mutation and/or deletion in a broad range of solid and hematologic cancers.
+CDKN2B	ENSG00000147883	09p21.3	3984	0.64%	1.60	2.5768	1.5558	5	1	1		1	1	1	A tumor suppressor and cell cycle regulator, is inactivated by mutation or deletion in various cancer types.
+JAK2	ENSG00000096968	09p24.1	7123	3.38%	4.75	2.6630	1.8070	6	1	1	1	1	1	1	An intracellular kinase, is frequently altered by mutation or chromosomal rearrangement in hematologic malignancies.
+CD274	ENSG00000120217	09p24.1	3713	0.66%	1.79	2.6832	1.8071	4	1			1	1	1	Aka PD-L1, is an immune receptor ligand. Expression of PD-L1 may help predict response to immunotherapies targeted against PD-L1 and its receptor, PD-1.
+PTPRD	ENSG00000153707	09p24.1-p23	10797	7.25%	6.72	2.6412	1.8048	3				1	1	1	A tumor suppressor and receptor protein tyrosine phosphatase, is altered by mutation or deletion in various cancer types including skin and lung cancers.
+HNRNPK	ENSG00000165119	09q21.32	3098	1.53%	4.94	2.5750	1.9035	1		1					
+NTRK2	ENSG00000148053	09q21.33	20455	2.63%	1.29	2.5721	1.9036	5	1	1		1	1	1	A receptor tyrosine kinase, is altered by mutation or chromosomal rearrangement in a diverse range of cancers.
+SYK	ENSG00000165025	09q22.2	5240	2.26%	4.32	2.5729	1.9041	3				1	1	1	Encodes a tyrosine kinase involved in signal transduction. Upregulation of SYK is found in lymphomas, leukemias and select epithelial tumors.
+ABL1	ENSG00000097007	09q34.12	7066	31.55%	44.66	2.5731	1.8959	5	1	1		1	1	1	A tyrosine kinase, is frequently altered by chromosomal translocations in leukemia.
+NOTCH1	ENSG00000148400	09q34.3	9704	28.02%	28.87	2.5942	1.8859	5	1	1		1	1	1	A transmembrane receptor and transcription factor, can function as both an oncogene and tumor suppressor.
+TRAF2	ENSG00000127191	09q34.3	2310	2.39%	10.34	2.5979	1.8875	1	1						A protein that mediates signaling from members of the TNF receptor family and regulates downstream NFkB pathway activation. Mutations are found in meyloma, lymphomas, and more rarely in epithelial cancers.
+ANKRD26	ENSG00000107890	10p12.1	6911	6.62%	9.57	2.6806	1.8834	1			1				
+GATA3	ENSG00000107485	10p14	3107	3.14%	10.11	2.7364	1.8734	5	1	1		1	1	1	A transcription factor, is altered by mutation or amplification in various cancers, most frequently in breast cancer.
+EGR2	ENSG00000122877	10q21.3	3164	6.91%	21.83	2.5759	1.8741	1				1			
+PTEN	ENSG00000171862	10q23.31	8551	7.62%	8.91	2.4946	1.7918	5	1	1		1	1	1	A lipid and protein phosphatase, is one of the most frequently mutated genes in cancer.
+FAS	ENSG00000026103	10q23.31	4018	0.76%	1.89	2.4875	1.8175	4	1			1	1	1	A death receptor that initiates apoptosis, is recurrently altered by mutation or downregulation in a diverse range of human cancers.
+NT5C2	ENSG00000076685	10q24.32-q24.33	5324	7.32%	13.75	2.4944	1.8471	5	1	1		1	1	1	A 5-prime nucleotidase, is frequently altered by mutation in relapsed hematopoietic malignancies.
+SMC3	ENSG00000108055	10q25.2	5638	2.70%	4.78	2.5032	1.8510	5	1	1	1	1	1		An ATPase that functions as a subunit of the cohesin complex, is recurrently mutated in Cornelia de Lange syndromes, hematologic malignancies, and solid tumors.
+WT1	ENSG00000184937	11p13	3621	2.59%	7.16	2.6185	1.9285	6	1	1	1	1	1	1	A transcription factor, is overexpressed in various cancer types including leukemias.
+HRAS	ENSG00000174775	11p15.5	1371	1.47%	10.75	2.5287	1.8786	5	1	1		1	1	1	A GTPase, is altered in a diverse range of cancers including head and neck squamous cell carcinoma, thyroid, and bladder cancer.
+SF1	ENSG00000168066	11q13.1	4223	3.51%	8.30	2.6247	1.9497	2		1		1			
+CCND1	ENSG00000110092	11q13.3	4356	4.83%	11.08	3.3505	1.9576	5	1	1		1	1	1	A regulator of the cell cycle, is amplified in various cancer types including breast, head and neck, and bladder cancers.
+EED	ENSG00000074266	11q14.2	3469	0.92%	2.67	2.6582	1.9037	4	1	1		1		1	A transcriptional repressor, is altered in malignant peripheral nerve sheath tumors and hematologic malignancies.
+BIRC3	ENSG00000023445	11q22.2	7208	2.70%	3.74	2.8226	1.8875	3	1			1	1		An anti-apoptotic protein, is altered in various cancer types.
+ATM	ENSG00000149311	11q22.3	18547	11.94%	6.44	2.5629	1.8637	4	1			1	1	1	A kinase involved in DNA damage response, is inactivated in various solid and hematologic malignancies. Germline ATM mutations are a defining feature of ataxia telangiectasia syndrome, a neurodegenerative, autosomal disorder that predisposes to various cancers.
+KMT2A	ENSG00000118058	11q23.3	16746	17.42%	10.41	2.5545	1.8646	5	1	1		1	1	1	A histone methyltransferase, is altered by mutation or deletion in various solid tumors, and by chromosomal rearrangement in various hematologic malignancies.
+CBL	ENSG00000110395	11q23.3	11273	13.93%	12.36	2.5461	1.8646	6	1	1	1	1	1	1	A tumor suppressor and ubiquitin ligase, is inactivated by mutation or deletion in various cancer types including myeloid malignancies.
+KRAS	ENSG00000133703	12p12.1	6873	8.97%	13.05	3.2102	1.9470	6	1	1	1	1	1	1	A GTPase which functions as an upstream regulator of the MAPK and PI3K pathways, is frequently mutated in various cancer types including pancreatic, colorectal and lung cancers.
+ETNK1	ENSG00000139163	12p12.1	8026	2.10%	2.62	3.0514	1.9415	3		1	1	1			A kinase involved in phospholipid biosynthesis, is recurrently altered by mutation in BCR-ABL negative CML and CMML.
+CDKN1B	ENSG00000111276	12p13.1	2423	1.56%	6.44	2.8777	1.9109	4	1			1	1	1	A tumor suppressor and cell cycle regulator, is altered in various cancer types.
+ETV6	ENSG00000139083	12p13.2	6176	1.41%	2.28	2.9026	1.9182	6	1	1	1	1	1	1	A transcription factor, is frequently altered by chromosomal rearrangement in hematologic malignancies.
+ZNF384	ENSG00000126746	12p13.31	3493	5.50%	15.75	2.9099	1.9365	0							
+CCND2	ENSG00000118971	12p13.32	6559	0.83%	1.26	2.9641	1.9392	4	1			1	1	1	A regulator of the cell cycle, is amplified in various cancer types.
+KMT2D	ENSG00000167548	12q13.12	20855	31.28%	15.00	2.7135	1.9537	5	1	1		1	1	1	A tumor suppressor and histone methyltransferase, is one of the most frequently mutated genes in cancer.
+PRPF40B	ENSG00000110844	12q13.12	3971	3.43%	8.64	2.7160	1.9543	2		1		1			
+NFE2	ENSG00000123405	12q13.13	2258	1.31%	5.80	2.7340	1.9577	1				1			A hematopoietic transcription factor, is infrequently altered by mutation in hematopoietic malignancies.
+STAT6	ENSG00000166888	12q13.3	4565	5.16%	11.31	2.7584	1.9615	4	1	1		1	1		A transcription factor involved with immune regulation, is recurrently altered by mutation and amplification in lymphomas and solid tumors. STAT6 fusions are found in all patients with solitary fibrous tumor and meningeal haemangiopericytoma.
+BTG1	ENSG00000133639	12q21.33	4637	0.53%	1.14	2.6837	1.9411	3				1	1	1	An adaptor molecule that regulates transcription factor binding, is recurrently altered by deletions and mutations in hematopoietic malignancies.
+SH2B3	ENSG00000111252	12q24.12	5633	1.76%	3.13	2.6778	1.9413	4		1	1	1	1		An adaptor protein that regulates growth factor and cytokine signaling. Mutations are found in hematopoietic disorders including leukemias and myeloid disease.
+PTPN11	ENSG00000179295	12q24.13	6491	1.99%	3.07	2.6789	1.9427	6	1	1	1	1	1	1	A protein tyrosine phosphatase, is altered in various solid and hematologic malignancies.
+BCL7A	ENSG00000110987	12q24.31	6271	0.53%	0.84	2.6763	1.9375	3	1			1	1		
+FLT3	ENSG00000122025	13q12.2	3922	3.44%	8.77	2.6614	1.8597	6	1	1	1	1	1	1	A receptor tyrosine kinase, is recurrently altered in acute myeloid leukemia and other hematologic malignancies.
+FOXO1	ENSG00000150907	13q14.11	5791	1.15%	1.98	2.6153	1.8196	4	1	1		1	1		A transcription factor, is recurrently altered by mutation in hematologic malignancies and by deletion in prostate cancer.
+RB1	ENSG00000139687	13q14.2	5106	6.07%	11.88	2.6011	1.7945	5	1	1		1	1	1	A regulator of the cell cycle, is inactivated by mutation, deletion or allelic loss in various cancer types, including retinoblastoma and lung cancer.
+DIS3	ENSG00000083520	13q21.33	10923	3.48%	3.18	2.7440	1.8450	2					1	1	The catalytic subunit of the RNA exosome complex, is recurrently mutated in several cancer types including multiple myeloma.
+NFKBIA	ENSG00000100906	14q13.2	1925	1.00%	5.20	2.7263	1.8956	4	1			1	1	1	A negative regulator of NF-κB, is altered by mutation and deletion in various cancer types.
+MAX	ENSG00000125952	14q23.3	4126	2.44%	5.91	2.5623	1.8724	3				1	1	1	A transcription factor, is altered by mutation and deletion in various cancer types including small-cell lung cancer. Gerrmline mutations of MAX are associated with hereditary pheochromocytoma.
+BCL11B	ENSG00000127152	14q32.2	8544	6.63%	7.76	2.6190	1.8718	4	1	1		1	1		A transcription factor expressed in T cells and the central nervous system, is altered by mutation, deletion, or chromosomal rearrangement in hematopoietic malignancies.
+TRAF3	ENSG00000131323	14q32.32	7854	3.85%	4.91	2.6372	1.8690	3	1			1	1		A signaling molecule and E3 ligase, is recurrently mutated and deleted in B cell lymphoma and multiple myeloma.
+INO80	ENSG00000128908	15q15.1	6509	5.63%	8.64	2.4868	1.8838	0							
+B2M	ENSG00000166710	15q21.1	2394	0.79%	3.30	2.4972	1.8865	4	1			1	1	1	A tumor suppressor and regulator of the immune system, is inactivated by mutation or deletion in various cancer types including non-Hodgkins lymphoma.
+MAP2K1	ENSG00000169032	15q22.31	2685	1.13%	4.20	2.5512	1.9228	5	1	1		1	1	1	An intracellular kinase, is mutated at low frequencies in various cancer types including melanoma, colorectal and lung cancers.
+NTRK3	ENSG00000140538	15q25.3	25384	4.11%	1.62	2.6186	1.9305	5	1	1		1	1	1	A receptor tyrosine kinase, is altered by mutation or chromosomal rearrangement in a diverse range of cancers including melanoma and lung cancers.
+IDH2	ENSG00000182054	15q26.1	2835	1.57%	5.54	2.6638	1.9321	6	1	1	1	1	1	1	A cell metabolism enzyme, is recurrently mutated in various cancer types including acute myeloid leukemia, glioblastoma, and cholangiocarcinoma.
+BLM	ENSG00000197299	15q26.1	5328	3.99%	7.48	2.6477	1.9329	4	1			1	1	1	A tumor suppressor involved in DNA repair. Germline mutations of BLM are associated with Bloom syndrome and predispose to certain cancers.
+CHD2	ENSG00000173575	15q26.1	15093	9.70%	6.43	2.6570	1.9318	4	1			1	1	1	
+CD19	ENSG00000177455	16p11.2	1984	2.27%	11.46	2.7430	1.9563	2				1	1		
+PRKCB	ENSG00000166501	16p12.2-p12.1	8078	2.12%	2.62	2.7188	1.9454	1		1					
+SOCS1	ENSG00000185338	16p13.13	1801	0.46%	2.57	2.7558	1.9450	4	1			1	1	1	A negative regulator of cytokine signaling, is altered in various hematologic malignancies, most frequently in diffuse large B-cell lymphoma.
+CIITA	ENSG00000179583	16p13.13	16188	10.07%	6.22	2.7562	1.9457	3	1			1	1		A transcriptional coactivator in immune cells, is recurrently altered by deletion, mutation and chromosomal rearrangement in lymphomas.
+CREBBP	ENSG00000005339	16p13.3	10914	15.39%	14.10	2.6691	1.9028	5	1	1		1	1	1	A tumor suppressor and transcriptional co-activator, is frequently inactivated in hematologic malignancies.
+CTCF	ENSG00000102974	16q22.1	4683	3.75%	8.00	2.6019	1.8525	5	1	1		1	1	1	A tumor suppressor and chromatin binding factor, is mutated in various cancers, most frequently in endometrial cancer.
+IRF8	ENSG00000140968	16q24.1	3872	9.80%	25.30	2.5319	1.8233	2	1			1			A transcription factor, is altered by mutation in a variety of hematopoietic malignancies.
+PLCG2	ENSG00000197943	16q24.1	8798	4.59%	5.22	2.5470	1.8284	4	1			1	1	1	Encodes an enzyme involved in transmembrane signaling. Mutations of PLCG2 are associated with autoimmunity and immune dysregulation and resistance to Ibrutinib therapy in patients with CLL.
+TP53	ENSG00000141510	17p13.1	3533	39.56%	111.97	2.4377	1.7916	6	1	1	1	1	1	1	A tumor suppressor in the DNA damage pathway, is the most frequently mutated gene in cancer.
+PRPF8	ENSG00000174231	17p13.3	7645	7.72%	10.09	2.4688	1.8079	2		1		1			
+NF1	ENSG00000196712	17q11.2	14540	19.74%	13.57	2.6758	1.8965	5	1	1		1	1	1	A negative regulator of RAS, is inactivated by mutation or deletion in various solid and hematologic malignancies.
+SUZ12	ENSG00000178691	17q11.2	4559	4.13%	9.06	2.6771	1.9055	5	1	1		1	1	1	A component of the polycomb group of transcriptional repressors, is altered in hematologic diseases and sarcomas.
+IKZF3	ENSG00000161405	17q12-q21.1	10165	1.97%	1.94	3.2110	1.9145	3	1	1		1			A hematopoietic-specific transcription factor, is altered by mutation and deletion in hematopoietic malignancies.
+RARA	ENSG00000131759	17q21.2	4224	1.86%	4.40	2.8236	1.9109	5	1	1		1	1	1	A transcription factor, is altered by mutation or amplification in various solid tumors and is recurrently altered by chromosomal rearrangement in acute promyelocytic leukemia.
+STAT3	ENSG00000168610	17q21.2	5057	3.90%	7.71	2.6719	1.9079	5	1	1		1	1	1	A transcription factor, is altered by mutation or amplification in various solid and hematologic malignancies.
+STAT5B	ENSG00000173757	17q21.2	5155	3.79%	7.34	2.6729	1.9076	3	1			1	1		A transcription factor, is altered in various solid and hematologic malignancies.
+MAP3K14	ENSG00000006062	17q21.31	4717	3.36%	7.13	2.6797	1.9129	1	1						A serine/threonine kinase, is infrequently altered in cancer.
+CD79B	ENSG00000007312	17q23.3	1278	0.72%	5.65	2.8801	1.9490	5	1	1		1	1	1	A component of the B-cell antigen receptor, is recurrently altered in diffuse large B-cell lymphoma.
+PPM1D	ENSG00000170836	17q23.3	4839	1.50%	3.11	2.9099	1.9461	2				1	1		A protein phosphatase, is altered by mutation in various solid and hematologic malignancies including in therapy-related hematopoietic disorders.
+GNA13	ENSG00000120063	17q24.1	6451	2.74%	4.24	2.8542	1.9466	4	1			1	1	1	A guanine nucleotide exchange protein, is recurrently altered by mutation in lymphomas.
+SRSF2	ENSG00000161547	17q25.2	2893	0.91%	3.13	2.8207	1.9361	5	1	1	1	1	1		An RNA splicing factor, is frequently mutated in hematological malignancies.
+SETBP1	ENSG00000152217	18q12.3	13877	7.89%	5.68	2.5506	1.8409	5	1	1	1	1	1		An epigenetic remodeling protein, is frequently altered by mutation in a range of hematopoietic malignancies.
+BCL2	ENSG00000171791	18q21.33	11749	0.84%	0.71	2.5174	1.8218	5	1	1		1	1	1	An anti-apoptotic protein, is frequently altered in non-Hodgkin lymphomas.
+JAK3	ENSG00000105639	19p13.11	5854	4.60%	7.86	2.6935	1.9448	5	1	1		1	1	1	A non-receptor tyrosine kinase, is recurrently altered by mutation in hematologic malignancies.
+MEF2B	ENSG00000213999	19p13.11	2135	2.92%	13.67	2.7640	1.9538	4	1			1	1	1	A transcriptional activator, is altered by mutation in various hematological malignancies including follicular lymphoma.
+KLF2	ENSG00000127528	19p13.11	2832	0.98%	3.47	2.7070	1.9440	1				1			A transcription factor that regulates the activity of NF-κB, is recurrently altered by mutation in splenic marginal zone lymphoma.
+CALR	ENSG00000179218	19p13.13	1937	1.13%	5.82	2.6993	1.9331	6	1	1	1	1	1	1	A calcium-binding protein, is altered in various solid and hematologic malignancies including myeloproliferative neoplasms.
+SMARCA4	ENSG00000127616	19p13.2	7230	13.06%	18.07	2.6880	1.9299	4	1			1	1	1	A tumor suppressor involved in chromatin remodeling, is recurrently altered in small cell carcinoma of the ovaries, hypercalcemic type (SCCOHT).
+DNM2	ENSG00000079805	19p13.2	3860	11.06%	28.65	2.6907	1.9306	4	1	1		1	1		
+TYK2	ENSG00000105397	19p13.2	4808	5.93%	12.34	2.6826	1.9284	3	1	1		1			A non-receptor kinase, is infrequently altered by mutation and rearrangement in hematopoietic malignancies.
+EPOR	ENSG00000187266	19p13.2	2534	1.69%	6.65	2.6763	1.9305	2		1			1		A cytokine receptor, is recurrently altered by chromosomal rearrangement in familial erythrocytosis and acute lymphoblastic leukemia.
+TCF3	ENSG00000071564	19p13.3	5295	3.61%	6.82	2.5393	1.8420	4	1	1		1	1		A transcription factor involved in lymphopoiesis, is altered by mutation or deletion in various cancer types.
+RPS15	ENSG00000115268	19p13.3	1303	4.74%	36.37	2.5399	1.8402	2				1	1		
+ELANE	ENSG00000197561	19p13.3	1052	0.89%	8.42	2.5489	1.8404	2		1	1				
+CEBPA	ENSG00000245848	19q13.11	2605	2.59%	9.95	2.9109	1.9449	6	1	1	1	1	1	1	A tumor suppressor and transcription factor, is recurrently altered by mutation in acute myeloid leukemia.
+CD79A	ENSG00000105369	19q13.2	1119	0.62%	5.51	2.7299	1.9220	5	1	1		1	1	1	A component of the B-cell receptor, is altered at low frequencies across various solid and hematologic malignancies.
+CBLC	ENSG00000142273	19q13.32	1641	1.43%	8.69	2.7493	1.9196	2				1	1		
+U2AF2	ENSG00000063244	19q13.42	3086	6.53%	21.16	2.7604	1.9168	3	1	1		1			An mRNA splicing protein, is altered by mutation in hematopoietic cancers.
+ASXL1	ENSG00000171456	20q11.21	8007	5.79%	7.23	3.1480	1.9861	6	1	1	1	1	1	1	A tumor suppressor and epigenetic regulator, is inactivated by mutation in various cancer types, most frequently in myeloid malignancies.
+SAMHD1	ENSG00000101347	20q11.23	5711	1.36%	2.38	3.1059	1.9758	0							A deoxynucleoside triphosphate triphosphohydrolase involved in cellular dNTP homeostasis, is recurrently altered by mutation in chronic lymphocytic leukemia.
+PLCG1	ENSG00000124181	20q12	7606	4.34%	5.71	3.0912	1.9710	2				1	1		A phospholipase-C signaling molecule, is recurrently mutated in hematologic malignancies.
+PTPN1	ENSG00000196396	20q13.13	4081	1.09%	2.67	3.1728	1.9801	0							A tyrosine phosphatase, is recurrently altered by mutation, fusion, deletion, and amplification in a variety of cancer types.
+GNAS	ENSG00000087460	20q13.32	10118	3.98%	3.93	3.1853	1.9788	4	1			1	1	1	An intracellular signaling protein, is mutated in various cancers.
+RUNX1	ENSG00000159216	21q22.12	8270	1.75%	2.12	2.6310	1.9102	6	1	1	1	1	1	1	A transcription factor involved in hematopoietic differentiation, is altered by mutation or chromosomal rearrangement in various hematologic malignancies.
+U2AF1	ENSG00000160201	21q22.3	1898	0.13%	0.71	2.6094	1.8918	6	1	1	1	1	1	1	A splicing factor, is recurrently mutated in hematologic malignancies.
+MAPK1	ENSG00000100030	22q11.22	6107	1.32%	2.16	2.6385	1.8793	4	1			1	1	1	Aka ERK2, a serine/threonine kinase, is altered by mutation or amplification in various cancer types including head and neck, cervical and ovarian cancer.
+CHEK2	ENSG00000183765	22q12.1	2369	10.79%	45.54	2.5763	1.8575	4	1			1	1	1	A tumor suppressor and intracellular kinase, is altered in various cancer types. Germline mutations of CHEK2 are associated with an increased risk of certain cancers including breast, prostate and colorectal cancers.
+SF3A1	ENSG00000099995	22q12.2	5154	14.43%	28.00	2.6044	1.8670	2		1		1			
+EP300	ENSG00000100393	22q13.2	8903	11.82%	13.27	2.5508	1.8561	5	1	1		1	1	1	A tumor suppressor and histone acetyltransferase, is inactivated in various cancer types.
+SMC1A	ENSG00000072501	Xp11.22	10167	4.06%	3.99	2.6530	1.1781	4	1	1		1	1		An ATPase that functions as a subunit of the cohesin complex, is recurrently mutated in Cornelia de Lange syndromes, hematologic malignancies, and solid tumors.
+GATA1	ENSG00000102145	Xp11.23	1516	1.94%	12.77	2.6883	1.1723	6	1	1	1	1	1	1	A transcription factor involved in red blood cell and platelet development, is altered in several hematologic malignancies including transient leukemia and acute megakaryoblastic leukemia.
+KDM6A	ENSG00000147050	Xp11.3	6275	6.69%	10.67	2.6469	1.1654	6	1	1	1	1	1	1	A histone demethylase, is altered in various cancer types, most frequently in bladder cancer.
+UBA1	ENSG00000130985	Xp11.3	4831	3.14%	6.50	2.6887	1.1690	0							
+BCOR	ENSG00000183337	Xp11.4	8766	12.71%	14.50	2.6058	1.1619	6	1	1	1	1	1	1	A transcriptional repressor, is altered in various solid and hematologic malignancies including acute myeloid leukemia.
+DDX3X	ENSG00000215301	Xp11.4	9208	6.29%	6.83	2.6083	1.1625	3	1			1	1		An RNA helicase, is recurrently altered by mutations in several cancer types, including medulloblastoma and chronic lymphocytic leukemia.
+ZRSR2	ENSG00000169249	Xp22.2	2056	1.14%	5.53	2.6055	1.1498	5	1	1	1	1	1		A splicing factor,  is altered in various hematological malignancies.
+PIGA	ENSG00000165195	Xp22.2	3698	1.08%	2.92	2.6092	1.1496	1				1			An enzyme involved in the synthesis of GPI membrane attachments, is recurrently altered in hematologic malignancies.
+CRLF2	ENSG00000205755	Xp22.3 and Yp11.3	3200	1.04%	3.25	2.7025	1.7155	4	1	1		1	1		A cytokine receptor, is recurrently altered by chromosomal rearrangement in B-cell acute lymphoblastic leukemia.
+MED12	ENSG00000184634	Xq13.1	7158	35.74%	49.94	2.6127	1.1904	4	1			1	1	1	A component of CDK8, a subcomplex involved in transcription initiation. MED12 plays a role in the genesis of benign tumors such as uterine leiomyoma and breast fibroadenoma and is altered in a variety of estrogen-dependent tumors.
+ZMYM3	ENSG00000147130	Xq13.1	6585	6.89%	10.46	2.6124	1.1905	3	1			1	1		
+ATRX	ENSG00000085224	Xq21.1	11844	15.27%	12.89	2.6060	1.1861	5	1	1		1	1	1	A tumor suppressor involved in transcriptional regulation, is infrequently altered in cancer.
+BTK	ENSG00000010671	Xq22.1	3179	1.64%	5.15	2.6165	1.1885	4	1			1	1	1	An intracellular kinase, is overexpressed in B-cell malignancies.
+STAG2	ENSG00000101972	Xq25	6797	3.96%	5.82	2.6294	1.1857	6	1	1	1	1	1	1	A component of the cohesin complex, is recurrently altered by mutation in various cancer types,
+BCORL1	ENSG00000085185	Xq26.1	7332	17.34%	23.65	2.6222	1.1830	5	1	1		1	1	1	A transcriptional repressor, is recurrently mutated in hematopoietic malignancies, astrocytomas, and intracranial germ cell tumors.
+PHF6	ENSG00000156531	Xq26.2	7997	1.22%	1.53	2.6470	1.1825	5	1	1	1	1	1		A chromatin binding protein, is frequently altered by mutation and deletion in a range of hematologic malignancies.
+BRCC3	ENSG00000185515	Xq28	3003	0.96%	3.21	2.6741	1.1928	1				1			
+RPL10	ENSG00000147403	Xq28	2421	4.67%	19.30	2.6640	1.1952	1		1					
