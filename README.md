@@ -18,6 +18,8 @@ mkdir -p data targets
 cut -f1,2 data/cancer_genes_review.txt | grep -v Gene | sort > data/exon_targets_gene_list.txt
 ```
 
+Manually added two more genes per request from colleagues: DKC1 and ERG
+
 Create a BED file for these genes' coding regions with 2bp flanks, using their Gencode basic transcripts except level 3 (not verified nor curated):
 ```bash
 curl -L ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_40/gencode.v40.basic.annotation.gff3.gz -o data/gencode.v40.basic.annotation.gff3.gz
@@ -29,7 +31,7 @@ Try different combinations of transcripts/exons/annotations in steps above and m
 awk -F"\t" '{sum+=$3-$2} END {print sum}' targets/exon_targets_hg38.bed
 ```
 
-647414 bps in total; 648272 if we include level 3 transcripts; 689066 if we used 8bp flanks
+650581 bps in total; 651439 if we include level 3 transcripts; 693463 if we used 8bp flanks
 
 ### Non-coding
 
@@ -45,7 +47,7 @@ curl -sL 'https://api.genome.ucsc.edu/getData/track?genome=hg38;track=clinvarMai
 
 Target the P/LP ClinVar variants that are <1200bp to the targeted exons, but not overlapping:
 ```bash
-bedtools closest -d -a data/clinvar_plp_muts_hg38.bed -b targets/exon_targets_hg38.bed -g /srv/ref/hg38.fa.fai | awk -v OFS='\t' '{sub(/:CDS$/,":ClinVar",$8); if($9>0 && $9<1300) print $1, $2, $3, $8}' >> targets/non_coding_targets_hg38.bed
+bedtools closest -d -a data/clinvar_plp_muts_hg38.bed -b targets/exon_targets_hg38.bed -g /srv/ref/hg38.fa.fai | awk -v OFS='\t' '{sub(/:CDS$/,":ClinVar",$8); if($9>0 && $9<1200) print $1, $2, $3, $8}' >> targets/non_coding_targets_hg38.bed
 sort -su -k1,1V -k2,2n -k3,3n targets/non_coding_targets_hg38.bed -o targets/non_coding_targets_hg38.bed
 ```
 
@@ -73,14 +75,14 @@ Based on testing done for the pan-cancer panel, fetch the list of well performin
 curl -L https://raw.githubusercontent.com/ucladx/pancan-panel-design/dbf4ef9/data/snp_candidates_good_grch38.bed -o data/snp_candidates_good_hg38.bed
 ```
 
-Target 444 SNPs within exon targets or <240bp near them, which gives 135 genes at least 1 SNP likely to help detect LOH (don't choose >1 SNP <200bp apart):
+Target 447 SNPs within exon targets or <240bp near them, which gives 135 genes at least 1 SNP likely to help detect LOH (don't choose >1 SNP <200bp apart):
 ```bash
 bedtools window -w 240 -a targets/exon_targets_hg38.bed -b data/snp_candidates_good_hg38.bed | cut -f5-8 | sort -su -k1,1V -k2,2n -k3,3n | bedtools spacing -i - | awk -F'\t' '{if($5>=200) print}' | cut -f1-4 | sed 's/$/:SNP_LOH/' > targets/snp_targets_hg38.bed
 ```
 
-Add 1156 more SNPs (1600 total, sufficient for large CNVs) that are most distant from their nearest SNPs:
+Add 1153 more SNPs (1600 total, sufficient for large CNVs) that are most distant from their nearest SNPs:
 ```bash
-grep SNP_LOH$ targets/snp_targets_hg38.bed | bedtools slop -b 200 -g /srv/ref/hg38.fa.fai -i | bedtools subtract -a data/snp_candidates_good_hg38.bed -b - | bedtools spacing -i - | sort -k7,7rn | head -n1156 | cut -f1-4 | sed 's/$/:SNP_CNV/' >> targets/snp_targets_hg38.bed
+grep SNP_LOH$ targets/snp_targets_hg38.bed | bedtools slop -b 200 -g /srv/ref/hg38.fa.fai -i | bedtools subtract -a data/snp_candidates_good_hg38.bed -b - | bedtools spacing -i - | sort -k7,7rn | head -n1153 | cut -f1-4 | sed 's/$/:SNP_CNV/' >> targets/snp_targets_hg38.bed
 sort -s -k1,1V -k2,2n -k3,3n targets/snp_targets_hg38.bed -o targets/snp_targets_hg38.bed
 ```
 
