@@ -1,5 +1,7 @@
 ## Design a capture-based DNA-seq panel for hematologic cancers
 
+NOTE: *We are abandoning this panel design in favor of using probes in our freezer from [this group purchase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10424130/table/tbl3).*
+
 GOAL: Highly sensitive detection of somatic mutations in myeloid and lymphoid specimens, for screening and monitoring of patients with hematologic cancers. Compared to the [pan-cancer panel](https://github.com/ucladx/pancan-panel-design), this panel will have 10x deeper sequencing with a higher rate of duplicate reads per fragment, and UMI-based collapsing of duplicates into higher quality reads for increased specificity at low variant allele fractions (VAFs).
 
 ### Overview of required targets:
